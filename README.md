@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @static08
+- 👋 Hi, I’m @Priyanka
 - 👀 I’m interested in making projects that are innovative.
 - 🌱 I’m currently learning android development with Kotlin and have experince in web development with PHP and MySQL.
 - 💞️ I’m looking to collaborate on the same ..
